@@ -1,2 +1,0 @@
-'all_know_buy_prop', 'all_know_sell_prop', 'all_know_net_buy_prop',
-                     'all_know_buy_buy_prop', 'all_know_sell_sell_prop', 'all_know_net_buy_net_buy_prop'
